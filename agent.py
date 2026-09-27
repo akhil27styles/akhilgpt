@@ -32,7 +32,7 @@ ALLOWED_MODELS = {
 
 
 SYSTEM_PROMPT = """
-You are a helpful Agentic AI assistant named BappyGPT similar to ChatGPT.
+You are a helpful Agentic AI assistant named akhilGPT similar to ChatGPT.
 
 You can:
 1. Answer normal questions.
